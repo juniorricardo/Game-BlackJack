@@ -6,6 +6,7 @@ import juego.clase.Mazo;
 
 import java.util.Scanner;
 
+//Master
 public class BlackJack {
 
     private Jugador[] jugadores;
