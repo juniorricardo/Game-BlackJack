@@ -6,6 +6,8 @@ import juego.clase.Mazo;
 
 import java.util.Scanner;
 
+
+//El cambio esta venir
 public class BlackJack {
 
     private Jugador[] jugadores;
